@@ -10,26 +10,28 @@ A modern financial management application built with React and Vite, designed to
 - **Financial Analytics**: Visualize spending patterns and financial trends
 - **Portfolio Management**: Track investments and asset allocation
 - **Responsive Design**: Seamless experience across desktop and mobile devices
+- **AI Financial Insight**: Automated analysis of user financial patterns
+- **AI Recommendation System**: Personalized financial management recommendations
+- **AI Chatbot Assistant**: Answering questions regarding the user's financial condition
+
+## 🌐 Live Demo
+Smart Finance App can be accessed at:
+
+https://smart-finance-beige-five.vercel.app/
 
 ## 🛠 Tech Stack
 
-- **Frontend Framework**: React 18+
+- **Frontend Framework**: React
 - **Build Tool**: Vite
-- **Language**: JavaScript/TypeScript
-- **Styling**: [Your styling solution]
-- **State Management**: [Redux/Zustand/Context API - adjust as needed]
-
-## 📋 Prerequisites
-
-- Node.js 16.x or higher
-- npm 7.x or higher (or yarn/pnpm)
+- **Language**: JavaScript
+- **Styling**: CSS
 
 ## 🔧 Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/EmireKita/smart-finance-v2.git
-cd smart-finance-v2
+git clone https://github.com/cipp-codes/smart-finance.git
+cd smart-finance
 ```
 
 2. Install dependencies:
@@ -69,64 +71,6 @@ smart-finance-v2/
 ├── eslint.config.js    # ESLint configuration
 └── package.json        # Project dependencies
 ```
-
-## 🎯 ESLint Configuration
-
-This project uses ESLint to maintain code quality. The configuration includes:
-
-- Standard React best practices
-- Modern JavaScript/ES6+ standards
-- Optional TypeScript support for enhanced type safety
-
-For production applications, consider enabling TypeScript with type-aware lint rules.
-
-## 🚦 Development Workflow
-
-1. Create a new branch for your feature:
-```bash
-git checkout -b feature/your-feature-name
-```
-
-2. Make your changes and test locally:
-```bash
-npm run dev
-```
-
-3. Run linting to ensure code quality:
-```bash
-npm run lint
-```
-
-4. Commit and push your changes:
-```bash
-git commit -m "Add your feature description"
-git push origin feature/your-feature-name
-```
-
-5. Open a pull request for review
-
-## 📝 Contributing
-
-Contributions are welcome! Please ensure that:
-
-- Your code follows the ESLint rules
-- You test your changes locally
-- You provide clear commit messages
-- You update documentation as needed
-
-## 📄 License
-
-[Add your license information here]
-
-## 👨‍💻 Author
-
-**EmireKita**
-
-- GitHub: [@EmireKita](https://github.com/EmireKita)
-
-## 🤝 Support
-
-For questions or issues, please open a GitHub issue in the repository.
 
 ## 🔗 Useful Resources
 
